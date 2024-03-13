@@ -1,6 +1,6 @@
 # Specialist Connect
 
-Specialist Connect is a web application that revolutionizes the way individuals find and hire specialist service providers. From cleaners to caregivers, this platform simplifies the task of connecting users with reliable professionals. It boasts an array of features, including intuitive search and filtering, detailed specialist profiles, a booking system, and optional messaging and payment integration, all aimed at providing a seamless and secure user experience.
+Specialist Connect is a web application that revolutionizes the way individuals find and hire specialist service providers. From cleaners to caregivers, this platform simplifies the task of connecting users with reliable professionals. It boasts an array of features, including intuitive search and filtering, detailed specialist profiles, a booking system, messaging and payment integration, all aimed at providing a seamless and secure user experience.
 
 ## Key Features
 
